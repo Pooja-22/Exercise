@@ -1,0 +1,23 @@
+{
+  "name": "ObjectOrientedJs-Exercise",
+  "authors": [
+    "Pooja-22 <pooja.garg@tothenew.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0"
+  }
+}
